@@ -1,3 +1,4 @@
+/* 
 import React, { useState } from 'react';
 
 import { useAppSelector, useAppDispatch } from '../../app/hooks';
@@ -65,4 +66,14 @@ export function Counter() {
       </div>
     </div>
   );
+}*/
+
+import React from 'react'
+
+export const Counter = () => {
+    return (
+        <div>
+            ComponentName
+        </div>
+    )
 }

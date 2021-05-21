@@ -1,0 +1,8 @@
+.news-link {
+    transition: all .2s ease-in-out;
+}
+
+.news-link:hover {
+    cursor: pointer;
+    transform: scale(1.005);
+}
